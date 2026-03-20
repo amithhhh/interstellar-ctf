@@ -1,0 +1,26 @@
+Day 1:
+Nothing unusual.
+
+Day 2:
+Dust patterns forming strange lines.
+
+Day 3:
+01110011 01110100 01100001 01111001
+
+Day 4:
+Tried converting base64. No result.
+
+Day 5:
+01101000 01100101 01101100 01110000
+
+Day 6:
+This one feels different.
+
+Day 7:
+01001110 01001111 01010100 01001000 01001001 01001110 01000111
+
+Day 8:
+I'm still trying to understand.
+
+Day 9:
+01110011 01110100 01100001 01111001
