@@ -3,24 +3,37 @@ Nothing unusual.
 
 Day 2:
 Dust patterns forming strange lines.
+Could be random... but feels deliberate.
 
 Day 3:
 01110011 01110100 01100001 01111001
 
 Day 4:
 Tried converting base64. No result.
+Maybe it's not encoding... maybe it's something simpler.
 
 Day 5:
-01101000 01100101 01101100 01110000
+01100110 01100001 01101011 01100101
+This one doesn't make sense...
 
 Day 6:
-This one feels different.
+Some patterns repeat.
+Repetition must mean something.
 
 Day 7:
 01001110 01001111 01010100 01001000 01001001 01001110 01000111
+Too long... doesn't match the others.
 
 Day 8:
-I'm still trying to understand.
+I'm overthinking this.
+What if it's just letters?
 
 Day 9:
 01110011 01110100 01100001 01111001
+I've seen this before...
+
+Day 10:
+01000110 01001100 01000001 01000111 01111011 01101101 01110101 01110010 01110000 01101000 01011111 01101000 01100101 01011111 01110011 01100001 01101001 01100100 01011111 01110011 01110100 01100001 01111001 01111101
+
+Day 11:
+The message grows clearer... when the same method is applied.
